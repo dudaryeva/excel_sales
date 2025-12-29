@@ -1,5 +1,5 @@
 # excel_sales
-practice with formulas and pivot tables 
+practice with formulas, conditional formating, and pivot tables 
 <img width="1358" height="591" alt="Screenshot 2025-12-19 152950" src="https://github.com/user-attachments/assets/11fccd6a-6b9c-4578-bf3a-4a52007b5e3e" />
 <img width="1824" height="201" alt="Screenshot 2025-12-19 152925" src="https://github.com/user-attachments/assets/6c42deeb-68c4-4cff-809c-8fd234072050" />
 <img width="1332" height="680" alt="Screenshot 2025-12-19 152644" src="https://github.com/user-attachments/assets/782d04a7-cd11-4a1a-9eee-97c7460ce855" />
